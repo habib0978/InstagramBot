@@ -22,8 +22,8 @@
 
 <div align="center">
 
-![Bot Interface](https://ibb.co/6dw2pDh)
-![Bot Features](https://ibb.co/nMRmvSHM)
+![Bot Interface](https://ibb.co.com/6dw2pDh)
+![Bot Features](https://ibb.co.com/nMRmvSHM)
 
 </div>
 
