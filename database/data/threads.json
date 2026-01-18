@@ -1,0 +1,18 @@
+{
+  "340282366841710301281176189941929765624": {
+    "threadID": "340282366841710301281176189941929765624",
+    "threadName": "Who cares",
+    "theme": "The Cool Crew.",
+    "updatedAt": 1768469008966,
+    "settings": {
+      "antigcEnabled": true,
+      "badwordEnabled": true
+    }
+  },
+  "340282366841710301281153983786374952030": {
+    "threadID": "340282366841710301281153983786374952030",
+    "threadName": "Unknown",
+    "theme": null,
+    "updatedAt": 1768647013676
+  }
+}

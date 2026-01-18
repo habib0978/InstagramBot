@@ -1,0 +1,41 @@
+{
+  "botName": "InstagramBot",
+  "prefix": "/",
+  "adminNames": [
+    "Sheikh Tamim"
+  ],
+  "adminUIDs": [],
+  "dmWork": true,
+  "adminOnly": true,
+  "cookieAuth": {
+    "enabled": true,
+    "cookiePath": "./cookie.json"
+  },
+  "credentials": {
+    "email": "",
+    "password": ""
+  },
+  "session": {
+    "autoSave": true,
+    "sessionPath": "./session"
+  },
+  "database": {
+    "type": "json",
+    "mongoURL": "",
+    "jsonPath": "./database/data"
+  },
+  "options": {
+    "cmdSkip": [],
+    "eventSkip": [],
+    "autoReconnect": true,
+    "reconnectDelay": 5000,
+    "logLevel": "info"
+  },
+  "features": {
+    "welcomeMessage": true,
+    "leaveMessage": true,
+    "autoReact": false
+  },
+  "approvalMode": false,
+  "approvedThreads": [""]
+}
