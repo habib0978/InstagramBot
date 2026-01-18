@@ -22,8 +22,8 @@
 
 <div align="center">
 
-![Bot Interface](./test.jpg)
-![Bot Features](./test2.jpg)
+![Bot Interface](./utils/test.jpg)
+![Bot Features](./utils/test2.jpg)
 
 </div>
 
