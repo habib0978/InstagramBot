@@ -22,8 +22,8 @@
 
 <div align="center">
 
-![Bot Interface](https://ibb.co.com/6dw2pDh)
-![Bot Features](https://ibb.co.com/nMRmvSHM)
+![Bot Interface](./test.jpg)
+![Bot Features](./test2.jpg)
 
 </div>
 
