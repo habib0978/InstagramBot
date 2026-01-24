@@ -8,5 +8,11 @@
     "imageUrl": [],
     "videoUrl": [],
     "audioUrl": []
+  },{
+    "version": "1.0.1",
+    "files": {
+      "utils/cookieConverter.js": "cookie connected issues fix"
+    },
+    "note": "cookie connected issues fix"
   }
 ]
