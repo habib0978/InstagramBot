@@ -6,7 +6,7 @@
   ],
   "adminUIDs": [],
   "dmWork": true,
-  "adminOnly": true,
+  "adminOnly": false,
   "cookieAuth": {
     "enabled": true,
     "cookiePath": "./cookie.json"
