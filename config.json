@@ -4,7 +4,9 @@
   "adminNames": [
     "Sk Habibulla"
   ],
-  "adminUIDs": [],
+  "adminUIDs": [
+    "80054943614"
+  ],
   "dmWork": true,
   "adminOnly": false,
   "cookieAuth": {
